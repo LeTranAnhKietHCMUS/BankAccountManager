@@ -1,0 +1,155 @@
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\bin\Debug\guibankapp.exe.config
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\bin\Debug\guibankapp.exe
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\bin\Debug\guibankapp.pdb
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.AssemblyReference.cache
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.Properties.Resources.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.GenerateResource.cache
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.CoreCompileInputs.cache
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.exe
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.pdb
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.Menu.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.Taohosochokhachhangmoi.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemBangLaiSuat.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemDanhSachKhachHang.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoCCCDHoTen.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoMa.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.ChonLoaiTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.FormChonTimKiem.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanThanhToanForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanTietKiemForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanVayVonForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.ChiTietKhachHang.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.CapNhatThongTinKhachHang.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuTheoSoTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.NapTienForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.ChuyenKhoanForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuGiaoDichForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.BaoCaoDoanhThuForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.ThongKeTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.TinhLaiDuKienForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.DaoHanTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienTruocHanForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemKeHoachThanhToanForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.ThanhToanHangThangForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuTraNoForm.resources
+C:\Users\ltvy0\source\Repos\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanVayVonForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\bin\Debug\guibankapp.exe.config
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\bin\Debug\guibankapp.exe
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\bin\Debug\guibankapp.pdb
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.AssemblyReference.cache
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.BaoCaoDoanhThuForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.CapNhatThongTinKhachHang.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ChiTietKhachHang.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ChonLoaiTaiKhoan.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ChuyenKhoanForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.DaoHanTaiKhoanForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.FormChonTimKiem.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.Menu.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.NapTienForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.Properties.Resources.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienTruocHanForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanThanhToanForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanTietKiemForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanVayVonForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.Taohosochokhachhangmoi.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ThanhToanHangThangForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ThongKeTaiKhoanForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TinhLaiDuKienForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoCCCDHoTen.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoMa.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuTheoSoTaiKhoan.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemBangLaiSuat.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemDanhSachKhachHang.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemKeHoachThanhToanForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuGiaoDichForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuTraNoForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoan.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanVayVonForm.resources
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.GenerateResource.cache
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.CoreCompileInputs.cache
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.exe
+D:\TH Lập trình hướng đối tượng\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.pdb
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\bin\Debug\guibankapp.exe.config
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\bin\Debug\guibankapp.exe
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\bin\Debug\guibankapp.pdb
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.AssemblyReference.cache
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.BaoCaoDoanhThuForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.CapNhatThongTinKhachHang.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ChiTietKhachHang.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ChonLoaiTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ChuyenKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.DaoHanTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.FormChonTimKiem.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.Menu.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.NapTienForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.Properties.Resources.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienTruocHanForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanThanhToanForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanTietKiemForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanVayVonForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.Taohosochokhachhangmoi.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ThanhToanHangThangForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.ThongKeTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TinhLaiDuKienForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoCCCDHoTen.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoMa.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuTheoSoTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemBangLaiSuat.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemDanhSachKhachHang.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemKeHoachThanhToanForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuGiaoDichForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuTraNoForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanVayVonForm.resources
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.GenerateResource.cache
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.CoreCompileInputs.cache
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.exe
+C:\Users\ltvy0\source\Repos\final_c#\guibankapp\guibankapp\obj\Debug\guibankapp.pdb
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\bin\Debug\guibankapp.exe.config
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\bin\Debug\guibankapp.exe
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\bin\Debug\guibankapp.pdb
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.AssemblyReference.cache
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.BaoCaoDoanhThuForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.CapNhatThongTinKhachHang.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.ChiTietKhachHang.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.ChonLoaiTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.ChuyenKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.DaoHanTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.FormChonTimKiem.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.Menu.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.NapTienForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.Properties.Resources.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.RutTienTruocHanForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanThanhToanForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanTietKiemForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.TaiKhoanVayVonForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.Taohosochokhachhangmoi.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.ThanhToanHangThangForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.ThongKeTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.TinhLaiDuKienForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoCCCDHoTen.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuKhachHangTheoMa.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.TraCuuTheoSoTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemBangLaiSuat.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemDanhSachKhachHang.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemKeHoachThanhToanForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuGiaoDichForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemLichSuTraNoForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoan.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.XemThongTinTaiKhoanVayVonForm.resources
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.GenerateResource.cache
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.csproj.CoreCompileInputs.cache
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.exe
+C:\Users\ltvy0\source\Repos\final_c# (1)\guibankapp\guibankapp\obj\Debug\guibankapp.pdb
